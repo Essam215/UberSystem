@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\ubersystem\\ubersystem\\repo\\interfaces\\iauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\repo\\interfaces\\iauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\ubersystem\\ubersystem\\repo\\implementations\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\repo\\implementations\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\ubersystem\\ubersystem\\repo\\implementations\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\repo\\implementations\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\ubersystem\\ubersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\ubersystem\\ubersystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\ubersystem\\ubersystem\\repo\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\repo\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\ubersystem\\ubersystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\ubersystem\\ubersystem\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\ubersystem\\ubersystem\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\ubersystem\\ubersystem\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\ubersystem\\ubersystem\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065525E5-92B4-4CAD-BF5F-2A5539DDB0F1}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Repo\\Implementations\\AuthRepo.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Repo\\Implementations\\AuthRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Repo\\Implementations\\AuthRepo.cs",
+              "RelativeToolTip": "UberSystem\\Repo\\Implementations\\AuthRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:27:12.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Repo\\Interfaces\\IAuthRepo.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Repo\\Interfaces\\IAuthRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Repo\\Interfaces\\IAuthRepo.cs",
+              "RelativeToolTip": "UberSystem\\Repo\\Interfaces\\IAuthRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:27:03.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "UberSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\appsettings.json",
+              "RelativeToolTip": "UberSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-14T11:08:10.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Repo\\Implementations\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Repo\\Implementations\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Repo\\Implementations\\GenericRepo.cs",
+              "RelativeToolTip": "UberSystem\\Repo\\Implementations\\GenericRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:07:17.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Repo\\Interfaces\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Repo\\Interfaces\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Repo\\Interfaces\\IGenericRepo.cs",
+              "RelativeToolTip": "UberSystem\\Repo\\Interfaces\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:07:07.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Program.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Program.cs",
+              "RelativeToolTip": "UberSystem\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:01:11.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Models\\Rating.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Models\\Rating.cs",
+              "RelativeToolTip": "UberSystem\\Models\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:11:57.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Models\\Payment.cs",
+              "RelativeToolTip": "UberSystem\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:10:41.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Models\\Ride.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Models\\Ride.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Models\\Ride.cs",
+              "RelativeToolTip": "UberSystem\\Models\\Ride.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:02:38.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Models\\Vehicle.cs",
+              "RelativeToolTip": "UberSystem\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:59:50.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\UberSystem\\UberSystem\\Models\\User.cs",
+              "RelativeToolTip": "UberSystem\\Models\\User.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:54:15.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
